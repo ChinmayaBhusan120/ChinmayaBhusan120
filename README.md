@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChinmayaBhusan120
+- 👋 Hi, I’m @Chinmay120
 - 👀 I’m interested in ...WEB DEVELOPMENT
 - 🌱 I’m currently learning ...BACKEND
 - 💞️ I’m looking to collaborate on ...
